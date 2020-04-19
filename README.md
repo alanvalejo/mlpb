@@ -1,4 +1,4 @@
-#### MLPb: Matching via weight-constrained label propagation in bipartite networks
+### MLPb: Matching via weight-constrained label propagation in bipartite networks
 
 You can get an alternative Python implementation of the MLBb coarsening algorithm in [MFBN](https://github.com/alanvalejo/mfbn) repository. MFBN is a framework that compiles several coarsening algorithms for bipartite networks.
 
