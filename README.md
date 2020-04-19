@@ -16,3 +16,5 @@ You can get an alternative Python implementation of the MLBb coarsening algorith
     pages = {105678},
 }
 ~~~~~
+
+<div class="footer"> &copy; Copyright (C) 2016 Alan Valejo &lt;alanvalejo@gmail.com&gt; All rights reserved.</div>
