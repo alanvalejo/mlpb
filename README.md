@@ -1,5 +1,4 @@
-You can download the MLBb software in [MFBN](https://github.com/alanvalejo/mfbn) repository.
-MFBN is a framework that compiles several coarsening algorithms for bipartite networks.
+You can get an alternative Python implementation of the MLBb coarsening algorithm in [MFBN](https://github.com/alanvalejo/mfbn) repository. MFBN is a framework that compiles several coarsening algorithms for bipartite networks.
 
 > [1] Valejo, Alan and Faleiros, T. P. and Oliveira, Maria C. F. and Lopes, A. A., A coarsening method for bipartite
 >networks via weight-constrained label propagation, in Knowledge-based systems, p. 105678, vol. 195, 2019, 
